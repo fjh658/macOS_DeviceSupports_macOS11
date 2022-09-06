@@ -1,0 +1,1 @@
+# macOS_DeviceSupports_macOS11
